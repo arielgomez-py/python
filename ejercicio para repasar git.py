@@ -1,4 +1,4 @@
-a = int(input("Introduzca el valor deseado de a: "))
-b = int(input("Introduzca el valor deseado de b: "))
-c = a + b
-print (c)
+x = int(input("Introduzca el valor deseado de x: "))
+y = int(input("Introduzca el valor deseado de y: "))
+z = x + y
+print (z)
