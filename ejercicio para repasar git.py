@@ -4,3 +4,5 @@ z = x + y
 print (z)
 potencia = pow(x, y)
 print(potencia)
+suma = z + potencia
+print(suma)
