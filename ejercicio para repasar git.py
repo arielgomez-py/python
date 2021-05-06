@@ -1,7 +1,7 @@
 x = int(input("Introduzca el valor deseado de x: "))
 y = int(input("Introduzca el valor deseado de y: "))
 z = x + y
-
+k = x / y
 potencia = pow(x, y)
 suma = z + potencia
 
