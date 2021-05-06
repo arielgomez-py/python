@@ -1,8 +1,10 @@
 x = int(input("Introduzca el valor deseado de x: "))
 y = int(input("Introduzca el valor deseado de y: "))
 z = x + y
-print (z)
+
 potencia = pow(x, y)
-print(potencia)
 suma = z + potencia
-print("Esta es la suma: "+ str(suma))
+
+print ("La suma de x + y es: "+ str(z))
+print("La potencia de x elevado a la y es: "+ str(potencia))
+print("La suma z mas la potencia es: "+ str(suma))
